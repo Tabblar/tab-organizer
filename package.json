@@ -1,0 +1,26 @@
+{
+  "name": "tabblar-tab-organizer",
+  "version": "1.0.0",
+  "description": "Tab Organizer group and organize your tabs into clean, saveable workspaces",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "tab-organizer",
+    "tabs",
+    "browser",
+    "productivity",
+    "organization",
+    "workspace",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Tabblar",
+  "license": "ISC",
+  "homepage": "https://tabblar.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabblar/tab-organizer.git"
+  }
+}
